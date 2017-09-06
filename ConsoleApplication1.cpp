@@ -5,6 +5,7 @@
 int main()
 {
 	printf("hello, git!");
-    return 0;
+	printf("hello, github!");
+	return 0;
 }
 
